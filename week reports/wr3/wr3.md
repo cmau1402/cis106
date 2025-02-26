@@ -9,7 +9,7 @@ Semester: Spring 2025
 ## Completed work for week 3
 
 - [Lab3.md](https://github.com/cmau1402/cis106/blob/main/lab/lab3/lab3.md) 
-- [Notes 3]()
+- [Notes 3](https://github.com/cmau1402/cis106/blob/main/notes/notes3/notes3.md)
 
 ## Practice
 
