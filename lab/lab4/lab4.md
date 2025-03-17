@@ -17,5 +17,13 @@ Assignment: Lab 4
 
 ## Question 3 | Shell Scripting
 
+![q3](lab4-script.png)
 [lab4](lab4-script.sh)
+![q3](q3.png)
+
+## Question 4 | Challenge Write a script
+
+![q4](lab4-Challenge1.png)
+[lab4](lab4-challenge.sh)
+![q4](lab4-challenge2.png)
 
