@@ -10,10 +10,14 @@ Assignment: Lab 4
 ![q1](q1.png)
 ![q1.2](q1_2.png)
 
+<hr>
+
 ## Question 2 | The ls command
 
 ![q2](q2_1.png)
 ![q2](q2_2.png)
+
+<hr>
 
 ## Question 3 | Shell Scripting
 
@@ -21,9 +25,12 @@ Assignment: Lab 4
 [lab4](lab4-script.sh)
 ![q3](q3.png)
 
+<hr>
+
 ## Question 4 | Challenge Write a script
 
 ![q4](lab4-Challenge1.png)
 [lab4](lab4-challenge.sh)
 ![q4](lab4-challenge2.png)
 
+<hr>
