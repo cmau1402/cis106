@@ -15,19 +15,19 @@ Semester: Spring 2025
 
 ### Practice 1
 
-[p1](practice1-1.png)
-[p1.2](practice1-2.png)
+![p1](practice1-1.png)
+![p1.2](practice1-2.png)
 
 <hr>
 
 ## Practice 2
 
-[p2](practice2.png)
+![p2](practice2.png)
 
 <hr>
 
 ## Practice 3
 
-[p3](practice3.png)
+![p3](practice3.png)
 
 <hr>
