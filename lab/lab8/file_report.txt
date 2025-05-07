@@ -1,0 +1,12 @@
+all files in my home directory
+all_my_files.txt, .ansi_codes.sh, .bash_aliases, .bash_history, .bash_logout,
+.bashrc, book.txt.save, .cache, challenge-Lab6, cis106, .config, data.xls,
+data.xls}, Desktop, Documents, .dotnet, Downloads, essentials.sh, .fonts,
+.gitconfig, .gnupg, hello.py, Hello.sh, .irb_history, jpg, l7.png, lab4files,
+lab6, .lesshst, .librewolf, .local, mkdir, music, Music, people.csv, Pictures,
+.pki, potato.sh, practicels, .profile, Public, scripts, shopping.md, snap, .ssh,
+.sudo_as_admin_successful, Templates, .textFiles.sh, tfi.sh, Videos, .viminfo,
+.vscode, website-lab5, .wget-hsts, wildcardpractice
+26
+Total Number of directories in my home directory
+30
